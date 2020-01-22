@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 257019393
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: tower_1_flat_a_chnage
+      Dependencies: {}
+    Info_1:
+      Name: tower_1_flat_b_change
+      Dependencies: {}
+    Info_2:
+      Name: tower_1_flat_c_change
+      Dependencies: {}
+    Info_3:
+      Name: tower_1_flat_d_change
+      Dependencies: {}
+    Info_4:
+      Name: tower_1_flat_f_change
+      Dependencies: {}
